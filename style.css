@@ -357,6 +357,8 @@ main p {
     color: var(--color-principal);
     background-position: center;
     text-align: center;
+    width: 100%;
+    background-size: cover;
     padding: 100px 0;
     margin: auto;
 
